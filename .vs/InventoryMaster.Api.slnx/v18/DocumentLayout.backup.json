@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Proyectos\\InventoryMaster.Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{29931B38-ED19-40C9-12EF-D79288A6D943}|InventoryMaster.Api\\InventoryMaster.Api.csproj|c:\\proyectos\\inventorymaster.api\\inventorymaster.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29931B38-ED19-40C9-12EF-D79288A6D943}|InventoryMaster.Api\\InventoryMaster.Api.csproj|solutionrelative:inventorymaster.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29931B38-ED19-40C9-12EF-D79288A6D943}|InventoryMaster.Api\\InventoryMaster.Api.csproj|c:\\proyectos\\inventorymaster.api\\inventorymaster.api\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29931B38-ED19-40C9-12EF-D79288A6D943}|InventoryMaster.Api\\InventoryMaster.Api.csproj|solutionrelative:inventorymaster.api\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29931B38-ED19-40C9-12EF-D79288A6D943}|InventoryMaster.Api\\InventoryMaster.Api.csproj|c:\\proyectos\\inventorymaster.api\\inventorymaster.api\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{29931B38-ED19-40C9-12EF-D79288A6D943}|InventoryMaster.Api\\InventoryMaster.Api.csproj|solutionrelative:inventorymaster.api\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{29931B38-ED19-40C9-12EF-D79288A6D943}|InventoryMaster.Api\\InventoryMaster.Api.csproj|c:\\proyectos\\inventorymaster.api\\inventorymaster.api\\inventorymaster.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{29931B38-ED19-40C9-12EF-D79288A6D943}|InventoryMaster.Api\\InventoryMaster.Api.csproj|solutionrelative:inventorymaster.api\\inventorymaster.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29931B38-ED19-40C9-12EF-D79288A6D943}|InventoryMaster.Api\\InventoryMaster.Api.csproj|c:\\proyectos\\inventorymaster.api\\inventorymaster.api\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{29931B38-ED19-40C9-12EF-D79288A6D943}|InventoryMaster.Api\\InventoryMaster.Api.csproj|solutionrelative:inventorymaster.api\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29931B38-ED19-40C9-12EF-D79288A6D943}|InventoryMaster.Api\\InventoryMaster.Api.csproj|c:\\proyectos\\inventorymaster.api\\inventorymaster.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{29931B38-ED19-40C9-12EF-D79288A6D943}|InventoryMaster.Api\\InventoryMaster.Api.csproj|solutionrelative:inventorymaster.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29931B38-ED19-40C9-12EF-D79288A6D943}|InventoryMaster.Api\\InventoryMaster.Api.csproj|c:\\proyectos\\inventorymaster.api\\inventorymaster.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{29931B38-ED19-40C9-12EF-D79288A6D943}|InventoryMaster.Api\\InventoryMaster.Api.csproj|solutionrelative:inventorymaster.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29931B38-ED19-40C9-12EF-D79288A6D943}|InventoryMaster.Api\\InventoryMaster.Api.csproj|c:\\proyectos\\inventorymaster.api\\inventorymaster.api\\data\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29931B38-ED19-40C9-12EF-D79288A6D943}|InventoryMaster.Api\\InventoryMaster.Api.csproj|solutionrelative:inventorymaster.api\\data\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,24 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Proyectos\\InventoryMaster.Api\\InventoryMaster.Api\\README.md",
-              "RelativeDocumentMoniker": "InventoryMaster.Api\\README.md",
-              "ToolTip": "C:\\Proyectos\\InventoryMaster.Api\\InventoryMaster.Api\\README.md",
-              "RelativeToolTip": "InventoryMaster.Api\\README.md",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAACoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-04-25T00:01:52.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Proyectos\\InventoryMaster.Api\\InventoryMaster.Api\\.gitignore",
               "RelativeDocumentMoniker": "InventoryMaster.Api\\.gitignore",
@@ -87,24 +74,24 @@
               "RelativeToolTip": "InventoryMaster.Api\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-24T23:55:08.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T23:55:08.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Proyectos\\InventoryMaster.Api\\InventoryMaster.Api\\index.html",
               "RelativeDocumentMoniker": "InventoryMaster.Api\\index.html",
               "ToolTip": "C:\\Proyectos\\InventoryMaster.Api\\InventoryMaster.Api\\index.html",
               "RelativeToolTip": "InventoryMaster.Api\\index.html",
-              "ViewState": "AgIAACgBAAAAAAAAAAAwwDoBAAATAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-04-24T23:03:31.418Z"
+              "WhenOpened": "2026-04-24T23:03:31.418Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Proyectos\\InventoryMaster.Api\\InventoryMaster.Api\\Program.cs",
               "RelativeDocumentMoniker": "InventoryMaster.Api\\Program.cs",
@@ -128,7 +115,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Proyectos\\InventoryMaster.Api\\InventoryMaster.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "InventoryMaster.Api\\appsettings.json",
+              "ToolTip": "C:\\Proyectos\\InventoryMaster.Api\\InventoryMaster.Api\\appsettings.json",
+              "RelativeToolTip": "InventoryMaster.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T17:05:22.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Proyectos\\InventoryMaster.Api\\InventoryMaster.Api\\README.md",
+              "RelativeDocumentMoniker": "InventoryMaster.Api\\README.md",
+              "ToolTip": "C:\\Proyectos\\InventoryMaster.Api\\InventoryMaster.Api\\README.md",
+              "RelativeToolTip": "InventoryMaster.Api\\README.md",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-25T00:01:52.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Proyectos\\InventoryMaster.Api\\InventoryMaster.Api\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "InventoryMaster.Api\\Controllers\\ProductsController.cs",
@@ -140,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "InventoryMaster.Api.csproj",
               "DocumentMoniker": "C:\\Proyectos\\InventoryMaster.Api\\InventoryMaster.Api\\InventoryMaster.Api.csproj",
               "RelativeDocumentMoniker": "InventoryMaster.Api\\InventoryMaster.Api.csproj",
@@ -152,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Proyectos\\InventoryMaster.Api\\InventoryMaster.Api\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "InventoryMaster.Api\\Controllers\\CategoriesController.cs",
@@ -164,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Proyectos\\InventoryMaster.Api\\InventoryMaster.Api\\Models\\Product.cs",
               "RelativeDocumentMoniker": "InventoryMaster.Api\\Models\\Product.cs",
@@ -176,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Proyectos\\InventoryMaster.Api\\InventoryMaster.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "InventoryMaster.Api\\Properties\\launchSettings.json",
@@ -185,18 +198,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-04-24T17:55:58.145Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Proyectos\\InventoryMaster.Api\\InventoryMaster.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "InventoryMaster.Api\\appsettings.json",
-              "ToolTip": "C:\\Proyectos\\InventoryMaster.Api\\InventoryMaster.Api\\appsettings.json",
-              "RelativeToolTip": "InventoryMaster.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-24T17:05:22.755Z"
             },
             {
               "$type": "Document",
